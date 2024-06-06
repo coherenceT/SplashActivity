@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="screen_smart">Screen Smart</string>
+    <string name="developer_name_nstudent_number">Developer Name\nStudent Number</string>
+</resources>
