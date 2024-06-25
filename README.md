@@ -92,3 +92,4 @@ Stop
 
  
 Here are the screenshots of my app
+![Screenshot (1)](https://github.com/coherenceT/SplashActivity/assets/161321318/a56df826-a504-4f0a-9029-12ae5445dc6d)
