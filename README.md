@@ -1,8 +1,7 @@
 SplashActivity
 Activity: SplashActivity
 Start
-    Declarations: btnStart, btnExit
-    
+ Declarations: btnStart, btnExit
     output "Screen Smart App"
     output "Your Name"
     output "Your Student Number"
